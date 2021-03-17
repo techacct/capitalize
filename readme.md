@@ -1,0 +1,1 @@
+# Python script to capitalize every first letter in a sentence
